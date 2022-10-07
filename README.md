@@ -17,9 +17,9 @@
 ## Installation
 
 ```
-npm install -save react-nestable-boost
+npm install -save react-nestable-ext
 
-yarn add react-nestable-boost
+yarn add react-nestable-ext
 ```
 
 ## Usage
